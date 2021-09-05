@@ -26,4 +26,3 @@ Finally, render the Props Data
 Components tell React what you want to render
 
 
-## Things I want to know more about
