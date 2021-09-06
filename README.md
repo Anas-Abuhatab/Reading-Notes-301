@@ -8,3 +8,7 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 ---|---|---
 1-|Read-01|[Introduction to React and Components](https://anas-abuhatab.github.io/Reading-Notes-301/Read01)
 1-|Read-02|[State and Props](https://anas-abuhatab.github.io/Reading-Notes-301/Read02)
+
+## resources
+
+1- <https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093>
