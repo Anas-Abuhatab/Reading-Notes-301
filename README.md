@@ -10,7 +10,10 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 2-|Read-02|[State and Props](https://anas-abuhatab.github.io/Reading-Notes-301/Read02)
 3-|Read-03|[Class 03](https://anas-abuhatab.github.io/Reading-Notes-301/Read03)
 4-|Read-04|[React and Forms](https://anas-abuhatab.github.io/Reading-Notes-301/Read04)
+5-|Read-05|[Putting it all together](https://anas-abuhatab.github.io/Reading-Notes-301/Read05)
 
 ## resources
 
-1- <https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093>
+1- [lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+
+2-[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
