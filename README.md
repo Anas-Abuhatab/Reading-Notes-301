@@ -9,6 +9,7 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 1-|Read-01|[Introduction to React and Components](https://anas-abuhatab.github.io/Reading-Notes-301/Read01)
 2-|Read-02|[State and Props](https://anas-abuhatab.github.io/Reading-Notes-301/Read02)
 3-|Read-03|[Class 03](https://anas-abuhatab.github.io/Reading-Notes-301/Read03)
+4-|Read-04|[React and Forms](https://anas-abuhatab.github.io/Reading-Notes-301/Read04)
 
 ## resources
 
