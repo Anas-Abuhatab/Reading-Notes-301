@@ -2,6 +2,7 @@
 # Thinking in React
 
 **Start With A Mock**
+
 1. Step 1: Break The UI Into A Component Hierarchy
 2. Step 2: Build A Static Version in React
 3. Step 3: Identify The Minimal (but complete) Representation Of UI State
