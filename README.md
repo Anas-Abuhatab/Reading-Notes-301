@@ -13,6 +13,7 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 5-|Read-05|[Putting it all together](https://anas-abuhatab.github.io/Reading-Notes-301/Read05)
 6-|Read-06|[NODE.JS](https://anas-abuhatab.github.io/Reading-Notes-301/Read06)
 7-|Read-07|[REST](https://anas-abuhatab.github.io/Reading-Notes-301/Read07)
+8-|Read-08|[APIs](https://anas-abuhatab.github.io/Reading-Notes-301/Read08)
 
 ## resources
 
