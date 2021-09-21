@@ -19,6 +19,7 @@ My names is Anas Abuhatab I’m 24 years old . I am a Solar engineer. i like sof
 11-|Read-11|[Mongo and Mongoose](https://anas-abuhatab.github.io/Reading-Notes-301/Read11)
 12-|Read-12|[CRUD](https://anas-abuhatab.github.io/Reading-Notes-301/Read12)
 13-|Read-13|[Diversity & Inclusion ](https://anas-abuhatab.github.io/Reading-Notes-301/Read13)
+14-|Read-14|[Authentication ](https://anas-abuhatab.github.io/Reading-Notes-301/Read14)
 
 ## resources
 
